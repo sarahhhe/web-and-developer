@@ -215,8 +215,8 @@ figcaption {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #1a1b1f;
-  color: #fff;
+  background-color: #fff;
+  color: #1a1b1f;
   text-align: center;
 }
 
