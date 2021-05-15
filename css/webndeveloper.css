@@ -87,6 +87,7 @@ a {
 
 
 .flip-card {
+  padding: 5px;
   background-color: transparent;
   width: 300px;
   height: 300px;
@@ -309,6 +310,7 @@ a {
 }
 
 .service-card {
+  padding: 300px;
   position: relative;
   left: auto;
   display: -webkit-box;
