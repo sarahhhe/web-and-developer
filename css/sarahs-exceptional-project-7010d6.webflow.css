@@ -1295,12 +1295,12 @@ a {
   }
 
   .button.nav.hide-on-mobile {
-    border-color: #5f5bb6;
-    color: #5f5bb6;
+    border-color: black;
+    color: black;
   }
 
   .button.nav.hide-on-mobile:hover {
-    background-color: #5f5bb6;
+    background-color: black;
     color: #fff;
   }
 
