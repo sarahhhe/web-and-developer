@@ -120,7 +120,7 @@ a {
 }
 
 .button.black {
-  background-color: #000;
+  background-color: #584086;
   color: #fff;
 }
 
@@ -222,6 +222,7 @@ a {
   font-size: 64px;
   line-height: 72px;
   font-weight: bold;
+  color: #ee5697;
 }
 
 .inline {
@@ -260,13 +261,13 @@ a {
 
 .form-field:hover {
   border-style: solid;
-  border-color: #000;
+  border-color: #584086;
 }
 
 .form-field:focus {
   padding: 13px 24px;
   border-width: 2px;
-  border-color: #000;
+  border-color: #584086;
 }
 
 .form-field::-webkit-input-placeholder {
@@ -1297,12 +1298,12 @@ a {
   }
 
   .button.nav.hide-on-mobile {
-    border-color: black;
-    color: black;
+    border-color: #584086;
+    color: #584086;
   }
 
   .button.nav.hide-on-mobile:hover {
-    background-color: black;
+    background-color: #584086;
     color: #fff;
   }
 
